@@ -16,9 +16,3 @@ A simple Streamlit app to encrypt and decrypt data using password-based encrypti
 pip install streamlit cryptography
 Run the app:
 streamlit run main.py
-
-## 🌐 Live App
-
-Try it here:  
-👉 [Open Secure Data Encryption App](https://5-assignment-data-encryption-8f3n6eglrnelrh8p7bhvew.streamlit.app/)
-
